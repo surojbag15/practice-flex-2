@@ -117,9 +117,10 @@
     box-sizing: border-box;
     background-color: black;
     justify-content: center;
+    aline-content: space-around;
     flex-direction: column;
     flex-wrap:wrap;
-    column-gap:430px;
+   
 }
 .items {
     height: 148px;
@@ -128,4 +129,5 @@
     background-color: red;
     margin: 9px;
     
+
 }
